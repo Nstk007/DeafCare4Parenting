@@ -39,13 +39,10 @@
       text-align: center;
       font-size: 0.9em;
     }
-    .pdf-images {
-      text-align: center;
-      padding: 40px 20px;
-    }
-    .pdf-images img {
-      max-width: 90%;
-      margin-bottom: 30px;
+    img {
+      max-width: 100%;
+      margin: 20px auto;
+      display: block;
       box-shadow: 0 0 10px #aaa;
       border-radius: 10px;
     }
@@ -65,6 +62,7 @@
     เพื่อให้เขาสามารถพัฒนาและใช้ชีวิตได้อย่างมีคุณภาพ
     เรียนรู้เกี่ยวกับระดับภาวะหูหนวก พูดคุยกับแพทย์เฉพาะทาง นักแก้ไขการได้ยิน และนักบำบัดการพูด
   </p>
+  <img src="assets/images/page_3.png" alt="เข้าใจภาวะของลูก">
 </section>
 
 <section>
@@ -75,6 +73,7 @@
     <li>ใช้ภาษากาย สีหน้า ท่าทาง และการเขียนข้อความประกอบ</li>
     <li>ฝึกฝนการใช้เครื่องช่วยฟังหรือประสาทหูเทียม (ถ้ามี)</li>
   </ul>
+  <img src="assets/images/page_4.png" alt="การสื่อสารกับลูก">
 </section>
 
 <section>
@@ -83,6 +82,7 @@
     หาศูนย์หรือโรงเรียนที่เหมาะกับเด็กหูหนวก เช่น โรงเรียนโสตศึกษา ที่มีเครื่องมือ
     บุคลากร และหลักสูตรเฉพาะ
   </p>
+  <img src="assets/images/page_5.png" alt="การเรียนรู้และพัฒนา">
 </section>
 
 <section>
@@ -98,25 +98,24 @@
     โทร: 02-2855618, 02-2860733<br>
     เว็บไซต์: <a href="http://www.sotthung.ac.th/?p=4313">sotthung.ac.th</a>
   </p>
+  <img src="assets/images/page_6.png" alt="โรงเรียนโสตศึกษาแนะนำ">
+</section>
+
+<section>
+  <h2>5. สิทธิต่าง ๆ ที่พ่อแม่ควรรู้</h2>
+  <p>
+    ภายใต้กฎหมายส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ ลูกที่มีบัตรคนพิการจะได้รับสิทธิในการรักษา การศึกษา
+    อาชีพ และอุปกรณ์ช่วยฟังตามสิทธิขั้นพื้นฐาน
+  </p>
+  <img src="assets/images/page_7.png" alt="สิทธิด้านสุขภาพ">
+  <img src="assets/images/page_8.png" alt="สิทธิด้านการศึกษา">
+  <img src="assets/images/page_9.png" alt="สิทธิด้านอาชีพ">
 </section>
 
 <section>
   <h2>ช่องทางติดต่อ</h2>
   <p>เว็บไซต์หลัก: <a href="http://www.DeafCare4Parenting.com">www.DeafCare4Parenting.com</a></p>
-</section>
-
-<section class="pdf-images">
-  <h2>สื่อประกอบจากไฟล์ PDF</h2>
-  <img src="assets/images/page_1.png" alt="PDF Page 1">
-  <img src="assets/images/page_2.png" alt="PDF Page 2">
-  <img src="assets/images/page_3.png" alt="PDF Page 3">
-  <img src="assets/images/page_4.png" alt="PDF Page 4">
-  <img src="assets/images/page_5.png" alt="PDF Page 5">
-  <img src="assets/images/page_6.png" alt="PDF Page 6">
-  <img src="assets/images/page_7.png" alt="PDF Page 7">
-  <img src="assets/images/page_8.png" alt="PDF Page 8">
-  <img src="assets/images/page_9.png" alt="PDF Page 9">
-  <img src="assets/images/page_10.png" alt="PDF Page 10">
+  <img src="assets/images/page_10.png" alt="ช่องทางติดต่อ DeafCare4Parenting">
 </section>
 
 <footer>

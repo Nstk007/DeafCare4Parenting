@@ -8,12 +8,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>การเลี้ยงดูลูกหูหนวก | DeafCare4Parenting</title>
   <style>
-    body { font-family: sans-serif; margin: 0; line-height: 1.6; background: #f5f9ff; color: #333; }
-    header { background: #005baa; color: white; padding: 20px 40px; text-align: center; }
-    section { padding: 40px 20px; max-width: 900px; margin: auto; }
-    h2 { color: #005baa; }
-    a { color: #005baa; text-decoration: none; }
-    footer { background: #e0ecff; padding: 20px; text-align: center; font-size: 0.9em; }
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      line-height: 1.6;
+      background: #f5f9ff;
+      color: #333;
+    }
+    header {
+      background: #005baa;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #005baa;
+    }
+    a {
+      color: #005baa;
+      text-decoration: none;
+    }
+    footer {
+      background: #e0ecff;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9em;
+    }
+    .pdf-images {
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .pdf-images img {
+      max-width: 90%;
+      margin-bottom: 30px;
+      box-shadow: 0 0 10px #aaa;
+      border-radius: 10px;
+    }
   </style>
 </head>
 <body>
@@ -70,10 +105,23 @@
   <p>เว็บไซต์หลัก: <a href="http://www.DeafCare4Parenting.com">www.DeafCare4Parenting.com</a></p>
 </section>
 
+<section class="pdf-images">
+  <h2>สื่อประกอบจากไฟล์ PDF</h2>
+  <img src="assets/images/page_1.png" alt="PDF Page 1">
+  <img src="assets/images/page_2.png" alt="PDF Page 2">
+  <img src="assets/images/page_3.png" alt="PDF Page 3">
+  <img src="assets/images/page_4.png" alt="PDF Page 4">
+  <img src="assets/images/page_5.png" alt="PDF Page 5">
+  <img src="assets/images/page_6.png" alt="PDF Page 6">
+  <img src="assets/images/page_7.png" alt="PDF Page 7">
+  <img src="assets/images/page_8.png" alt="PDF Page 8">
+  <img src="assets/images/page_9.png" alt="PDF Page 9">
+  <img src="assets/images/page_10.png" alt="PDF Page 10">
+</section>
+
 <footer>
   &copy; 2025 DeafCare4Parenting | สนับสนุนการดูแลเด็กหูหนวกอย่างเข้าใจ
 </footer>
 
 </body>
 </html>
-Index.html
